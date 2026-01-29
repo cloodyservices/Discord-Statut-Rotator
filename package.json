@@ -1,0 +1,22 @@
+{
+    "name": "cloody-status-rotator",
+    "version": "1.0.0",
+    "description": "Cloody Status Rotator - customizable Discord rich presence/status rotator",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["discord", "rich-presence", "status", "rotator"],
+    "author": "cLooDy",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "discord.js": "13.16",
+        "discord.js-selfbot-v13": "^3.3.0",
+        "keyauth": "^1.0.3",
+        "ms": "^2.1.3",
+        "pm2": "^5.4.2",
+        "pro.db": "^3.0.8"
+    }
+}

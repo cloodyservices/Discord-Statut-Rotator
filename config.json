@@ -1,0 +1,20 @@
+{
+    "NOTE": "Sensitive details removed. Replace values below with your own and keep tokens secret.",
+    "applicationId": "",
+    "imageURL": "",
+    "customStatuses": [],
+    "customEmojis": [],
+    "richPresence": {
+        "applicationId": "",
+        "type": "PLAYING",
+        "url": "",
+        "name": "",
+        "details": "",
+        "state": "",
+        "largeText": "",
+        "smallText": "",
+        "button1": { "label": "Discord", "url": "" },
+        "button2": { "label": "Website", "url": "" }
+    },
+    "token": ""
+}
